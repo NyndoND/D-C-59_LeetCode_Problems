@@ -33,4 +33,4 @@ nums2.length == n
 
 ## Submissões:
 
-![image](./images/image2.png)
+![image](../images/image4.png)
