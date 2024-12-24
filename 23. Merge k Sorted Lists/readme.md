@@ -42,4 +42,4 @@ The sum of lists[i].length will not exceed 104.
 
 ## Submissões:
 
-![image](./images/image2.png)
+![image](../images/image2.png)
