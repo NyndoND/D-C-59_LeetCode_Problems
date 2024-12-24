@@ -29,4 +29,4 @@ Both num1 and num2 do not contain any leading zero, except the number 0 itself.
 
 ## Submissões:
 
-![image](./images/image2.png)
+![image](../images/image3.png)
