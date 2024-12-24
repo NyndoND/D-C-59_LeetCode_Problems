@@ -39,4 +39,4 @@ nums is a permutation of all the numbers in the range [0, n - 1].
 
 ## Submissões:
 
-![image](./images/image1.png)
+![image](../images/image1.png)
