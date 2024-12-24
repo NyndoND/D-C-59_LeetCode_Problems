@@ -19,7 +19,7 @@ class Solution:
         
         return encode(decode(num1)*decode(num2))
 
-
+######### FUNÇÕES PARA RODAR LOCAL FORA DO LEETCODE ############
 solution = Solution()
 # Example 1
 num1, num2 = "2", "3"

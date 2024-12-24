@@ -17,7 +17,7 @@ class Solution(object):
         print(numLoc, numGlo)
         return numLoc == numGlo
     
-
+######### FUNÇÕES PARA RODAR LOCAL FORA DO LEETCODE ############
 solution = Solution()
 nums1 = [1, 0, 2]
 print("Example 1 Result:", solution.isIdealPermutation(nums1))  # Output: true

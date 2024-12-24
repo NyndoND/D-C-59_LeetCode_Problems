@@ -26,7 +26,9 @@ class Solution:
             else:
                 low = mid1 + 1
         return 0.0
-    
+
+
+######### FUNÇÕES PARA RODAR LOCAL FORA DO LEETCODE ############  
 solution = Solution()
 
 # Exemplo 1
