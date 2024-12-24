@@ -1,5 +1,7 @@
+from typing import List
+
 class Solution(object):
-    def isIdealPermutation(self, nums):
+    def isIdealPermutation(self, A: List[int]) -> bool:
         numLoc = 0
         numGlo = 0
 
@@ -14,3 +16,11 @@ class Solution(object):
         
         print(numLoc, numGlo)
         return numLoc == numGlo
+    
+
+solution = Solution()
+nums1 = [1, 0, 2]
+print("Example 1 Result:", solution.isIdealPermutation(nums1))  # Output: true
+
+nums2 = [1, 2, 0]
+print("Example 2 Result:", solution.isIdealPermutation(nums2))  # Output: false
