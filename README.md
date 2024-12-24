@@ -10,6 +10,8 @@
 ## Sobre 
 Resolução de exercício do LeetCode, alguns exercício possuem scripts no final para poderem sr executados localmente sem a necessidade de testar no LeetCode
 
+[Apresentação dos Problemas Resolvidos](https://www.youtube.com/watch?v=YMWz2BpThz8) 
+
 ## Screenshots
 
 ### 4. Median of Two Sorted Arrays
